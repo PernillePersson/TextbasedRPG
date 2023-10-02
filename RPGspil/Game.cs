@@ -169,7 +169,7 @@ public class Game
             CheckGameOver();
             if (IsPlaying())
             {
-                if (f.Health > 0)
+                if (f.Health >= 0)
                 {
                     currentEnemy.health = currentEnemy.health - f.Damage;
                     Console.WriteLine($"Enemy has been {"hurt".Pastel(Color.MediumSlateBlue)}");
