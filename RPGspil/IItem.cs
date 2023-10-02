@@ -1,8 +1,8 @@
 namespace RPGspil;
 
-public interface Item
+public interface IItem
 {
     public string Name { get; set; }
-
-    public void UseItem();
+    
+    public void UseItem(Ib ib);
 }

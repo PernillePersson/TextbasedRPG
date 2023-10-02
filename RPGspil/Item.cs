@@ -1,6 +1,6 @@
 namespace RPGspil;
 
-public class TestItem : IItem
+public class Item : IItem
 {
     public string Name { get; set; }
 
@@ -9,9 +9,9 @@ public class TestItem : IItem
         return Name;
     }
 
-    public void UseItem()
+    public void UseItem(Ib ib)
     {
-        throw new NotImplementedException();
+        Console.WriteLine("");
     }
 
     
