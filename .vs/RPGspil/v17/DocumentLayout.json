@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\perni\\source\\repos\\TextbasedRPG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4B1817-C679-483C-BAC5-9CB2661F706C}|RPGspil\\RPGspil.csproj|c:\\users\\perni\\source\\repos\\textbasedrpg\\rpgspil\\funktionalitet\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4B1817-C679-483C-BAC5-9CB2661F706C}|RPGspil\\RPGspil.csproj|solutionrelative:rpgspil\\funktionalitet\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4B1817-C679-483C-BAC5-9CB2661F706C}|RPGspil\\RPGspil.csproj|c:\\users\\perni\\source\\repos\\textbasedrpg\\rpgspil\\items\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4B1817-C679-483C-BAC5-9CB2661F706C}|RPGspil\\RPGspil.csproj|solutionrelative:rpgspil\\items\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4B1817-C679-483C-BAC5-9CB2661F706C}|RPGspil\\RPGspil.csproj|c:\\users\\perni\\source\\repos\\textbasedrpg\\rpgspil\\items\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4B1817-C679-483C-BAC5-9CB2661F706C}|RPGspil\\RPGspil.csproj|solutionrelative:rpgspil\\items\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4B1817-C679-483C-BAC5-9CB2661F706C}|RPGspil\\RPGspil.csproj|c:\\users\\perni\\source\\repos\\textbasedrpg\\rpgspil\\items\\iitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4B1817-C679-483C-BAC5-9CB2661F706C}|RPGspil\\RPGspil.csproj|solutionrelative:rpgspil\\items\\iitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4B1817-C679-483C-BAC5-9CB2661F706C}|RPGspil\\RPGspil.csproj|c:\\users\\perni\\source\\repos\\textbasedrpg\\rpgspil\\items\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4B1817-C679-483C-BAC5-9CB2661F706C}|RPGspil\\RPGspil.csproj|solutionrelative:rpgspil\\items\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4B1817-C679-483C-BAC5-9CB2661F706C}|RPGspil\\RPGspil.csproj|c:\\users\\perni\\source\\repos\\textbasedrpg\\rpgspil\\items\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4B1817-C679-483C-BAC5-9CB2661F706C}|RPGspil\\RPGspil.csproj|solutionrelative:rpgspil\\items\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4B1817-C679-483C-BAC5-9CB2661F706C}|RPGspil\\RPGspil.csproj|c:\\users\\perni\\source\\repos\\textbasedrpg\\rpgspil\\funktionalitet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4B1817-C679-483C-BAC5-9CB2661F706C}|RPGspil\\RPGspil.csproj|solutionrelative:rpgspil\\funktionalitet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4B1817-C679-483C-BAC5-9CB2661F706C}|RPGspil\\RPGspil.csproj|c:\\users\\perni\\source\\repos\\textbasedrpg\\rpgspil\\funktionalitet\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4B1817-C679-483C-BAC5-9CB2661F706C}|RPGspil\\RPGspil.csproj|solutionrelative:rpgspil\\funktionalitet\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4B1817-C679-483C-BAC5-9CB2661F706C}|RPGspil\\RPGspil.csproj|c:\\users\\perni\\source\\repos\\textbasedrpg\\rpgspil\\rpgspil.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BA4B1817-C679-483C-BAC5-9CB2661F706C}|RPGspil\\RPGspil.csproj|solutionrelative:rpgspil\\rpgspil.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4B1817-C679-483C-BAC5-9CB2661F706C}|RPGspil\\RPGspil.csproj|c:\\users\\perni\\source\\repos\\textbasedrpg\\rpgspil\\person\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4B1817-C679-483C-BAC5-9CB2661F706C}|RPGspil\\RPGspil.csproj|solutionrelative:rpgspil\\person\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\perni\\source\\repos\\TextbasedRPG\\RPGspil\\Items\\Weapon.cs",
+              "RelativeDocumentMoniker": "RPGspil\\Items\\Weapon.cs",
+              "ToolTip": "C:\\Users\\perni\\source\\repos\\TextbasedRPG\\RPGspil\\Items\\Weapon.cs",
+              "RelativeToolTip": "RPGspil\\Items\\Weapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T18:29:16.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\perni\\source\\repos\\TextbasedRPG\\RPGspil\\Items\\Item.cs",
+              "RelativeDocumentMoniker": "RPGspil\\Items\\Item.cs",
+              "ToolTip": "C:\\Users\\perni\\source\\repos\\TextbasedRPG\\RPGspil\\Items\\Item.cs",
+              "RelativeToolTip": "RPGspil\\Items\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T18:29:14.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\perni\\source\\repos\\TextbasedRPG\\RPGspil\\Items\\Inventory.cs",
+              "RelativeDocumentMoniker": "RPGspil\\Items\\Inventory.cs",
+              "ToolTip": "C:\\Users\\perni\\source\\repos\\TextbasedRPG\\RPGspil\\Items\\Inventory.cs",
+              "RelativeToolTip": "RPGspil\\Items\\Inventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T18:26:40.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IItem.cs",
+              "DocumentMoniker": "C:\\Users\\perni\\source\\repos\\TextbasedRPG\\RPGspil\\Items\\IItem.cs",
+              "RelativeDocumentMoniker": "RPGspil\\Items\\IItem.cs",
+              "ToolTip": "C:\\Users\\perni\\source\\repos\\TextbasedRPG\\RPGspil\\Items\\IItem.cs",
+              "RelativeToolTip": "RPGspil\\Items\\IItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T18:29:10.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\perni\\source\\repos\\TextbasedRPG\\RPGspil\\Items\\Food.cs",
+              "RelativeDocumentMoniker": "RPGspil\\Items\\Food.cs",
+              "ToolTip": "C:\\Users\\perni\\source\\repos\\TextbasedRPG\\RPGspil\\Items\\Food.cs",
+              "RelativeToolTip": "RPGspil\\Items\\Food.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T18:29:06.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\perni\\source\\repos\\TextbasedRPG\\RPGspil\\Funktionalitet\\Program.cs",
+              "RelativeDocumentMoniker": "RPGspil\\Funktionalitet\\Program.cs",
+              "ToolTip": "C:\\Users\\perni\\source\\repos\\TextbasedRPG\\RPGspil\\Funktionalitet\\Program.cs",
+              "RelativeToolTip": "RPGspil\\Funktionalitet\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T10:16:33.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\perni\\source\\repos\\TextbasedRPG\\RPGspil\\Funktionalitet\\Game.cs",
+              "RelativeDocumentMoniker": "RPGspil\\Funktionalitet\\Game.cs",
+              "ToolTip": "C:\\Users\\perni\\source\\repos\\TextbasedRPG\\RPGspil\\Funktionalitet\\Game.cs",
+              "RelativeToolTip": "RPGspil\\Funktionalitet\\Game.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAAAUwMEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T07:10:45.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Move.cs",
+              "DocumentMoniker": "C:\\Users\\perni\\source\\repos\\TextbasedRPG\\RPGspil\\Funktionalitet\\Move.cs",
+              "RelativeDocumentMoniker": "RPGspil\\Funktionalitet\\Move.cs",
+              "ToolTip": "C:\\Users\\perni\\source\\repos\\TextbasedRPG\\RPGspil\\Funktionalitet\\Move.cs",
+              "RelativeToolTip": "RPGspil\\Funktionalitet\\Move.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T07:09:43.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\perni\\source\\repos\\TextbasedRPG\\RPGspil\\Person\\Enemy.cs",
+              "RelativeDocumentMoniker": "RPGspil\\Person\\Enemy.cs",
+              "ToolTip": "C:\\Users\\perni\\source\\repos\\TextbasedRPG\\RPGspil\\Person\\Enemy.cs",
+              "RelativeToolTip": "RPGspil\\Person\\Enemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T15:55:06.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RPGspil.csproj",
+              "DocumentMoniker": "C:\\Users\\perni\\source\\repos\\TextbasedRPG\\RPGspil\\RPGspil.csproj",
+              "RelativeDocumentMoniker": "RPGspil\\RPGspil.csproj",
+              "ToolTip": "C:\\Users\\perni\\source\\repos\\TextbasedRPG\\RPGspil\\RPGspil.csproj",
+              "RelativeToolTip": "RPGspil\\RPGspil.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-19T15:50:54.173Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
