@@ -121,13 +121,13 @@ public class Game
 
 		public void ShowStats()
 		{
-				Console.WriteLine("Dine stats: ");
+				Console.WriteLine("Your stats: ");
 				Console.WriteLine(ib.getStats());
 		}
 
 		public void OpenInventory()
 		{
-				Console.WriteLine($"Indhold i {"inventory".Pastel(Color.DodgerBlue)}: ");
+				Console.WriteLine($"Content in {"inventory".Pastel(Color.DodgerBlue)}: ");
 				foreach (var Item in Inventory)
 				{
 						Console.WriteLine(Item);
@@ -206,27 +206,46 @@ public class Game
 
 		public void Grab()
 		{
-				Console.WriteLine($"Hvilket {"item".Pastel(Color.CornflowerBlue)} vil " +
-													$"du tage fra din {"inventory".Pastel(Color.DodgerBlue)}?");
-				string s = Console.ReadLine();
-				try
+				if(Inventory.Count == 0)
 				{
-						if (inHand != null)
+						Console.WriteLine("Your inventory is empty");
+						if(currentEnemy.health > 0 && inHand == null)
 						{
-								inv.AddToInventory(inHand);
-								Console.WriteLine($"{inHand.Name.Pastel(Color.CornflowerBlue)} was put back in your inventory");
+							Console.WriteLine("You don't have anything to fight with");
+							Thread.Sleep(1000);
+							ib.health = ib.health - currentEnemy.attack;
+							Console.WriteLine($"You have been {"attacked".Pastel(Color.MediumSlateBlue)}");
+							Thread.Sleep(1000);
+							Console.WriteLine($"Your health: {ib.health}");
+							Console.WriteLine("");
+							Thread.Sleep(1000);
+							CheckGameOver();
 						}
-				
-						Thread.Sleep(1000);
-						IItem i = Inventory.First(item => item.Name == s);
-						inv.GrapFromInventory(i);
-						inHand = i;
-						Console.WriteLine($"{i.Name.Pastel(Color.CornflowerBlue)} er nu i din hånd");
-				}
-				catch (Exception e)
+				}else
 				{
-						Console.WriteLine($"You don't have this item in your {"inventory".Pastel(Color.DodgerBlue)}");
+						Console.WriteLine($"Which {"item".Pastel(Color.CornflowerBlue)} do you " +
+															$"want to grab from your {"inventory".Pastel(Color.DodgerBlue)}?");
+						string s = Console.ReadLine();
+						try
+						{
+								if (inHand != null)
+								{
+										inv.AddToInventory(inHand);
+										Console.WriteLine($"{inHand.Name.Pastel(Color.CornflowerBlue)} was put back in your inventory");
+								}
+				
+								Thread.Sleep(1000);
+								IItem i = Inventory.First(item => item.Name == s);
+								inv.GrapFromInventory(i);
+								inHand = i;
+								Console.WriteLine($"{i.Name.Pastel(Color.CornflowerBlue)} is now in your hand");
+						}
+						catch (Exception e)
+						{
+								Console.WriteLine($"You don't have this item in your {"inventory".Pastel(Color.DodgerBlue)}");
+						}
 				}
+				
 		}
 
 		public void PutBack()
